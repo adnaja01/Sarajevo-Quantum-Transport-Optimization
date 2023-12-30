@@ -1,6 +1,6 @@
-A -> B: 14 seconds
-A -> C: 5 seconds
-B -> A: 32 seconds
-B -> C: 36 seconds
-C -> A: 41 seconds
-C -> B: 9 seconds
+Alipašino -> Baščaršija: 14 seconds
+Alipašino -> Ciglane: 5 seconds
+Baščaršija -> Alipašino: 32 seconds
+Baščaršija -> Ciglane: 36 seconds
+Ciglane -> Alipašino: 41 seconds
+Ciglane -> Baščaršija: 9 seconds

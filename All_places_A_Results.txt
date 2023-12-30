@@ -1,210 +1,210 @@
-A -> B: -1 second
-A -> C: -1 second
-A -> D: -1 second
-A -> E: -1 second
-A -> F: 98 seconds
-A -> G: -1 second
-A -> H: -1 second
-A -> I: -1 second
-A -> J: -1 second
-A -> K: -1 second
-A -> L: -1 second
-A -> M: -1 second
-A -> N: -1 second
-A -> O: -1 second
-B -> A: 7 seconds
-B -> C: -1 second
-B -> D: -1 second
-B -> E: -1 second
-B -> F: 105 seconds
-B -> G: -1 second
-B -> H: -1 second
-B -> I: -1 second
-B -> J: -1 second
-B -> K: -1 second
-B -> L: -1 second
-B -> M: -1 second
-B -> N: -1 second
-B -> O: -1 second
-C -> A: 315 seconds
-C -> B: 308 seconds
-C -> D: 97 seconds
-C -> E: 25 seconds
-C -> F: 34 seconds
-C -> G: 150 seconds
-C -> H: 160 seconds
-C -> I: 214 seconds
-C -> J: 152 seconds
-C -> K: 196 seconds
-C -> L: 251 seconds
-C -> M: 240 seconds
-C -> N: 177 seconds
-C -> O: -1 second
-D -> A: 218 seconds
-D -> B: 211 seconds
-D -> C: 159 seconds
-D -> E: 174 seconds
-D -> F: 148 seconds
-D -> G: 53 seconds
-D -> H: 63 seconds
-D -> I: 117 seconds
-D -> J: 55 seconds
-D -> K: 99 seconds
-D -> L: 154 seconds
-D -> M: 143 seconds
-D -> N: 80 seconds
-D -> O: -1 second
-E -> A: -1 second
-E -> B: -1 second
-E -> C: -1 second
-E -> D: -1 second
-E -> F: -1 second
-E -> G: -1 second
-E -> H: -1 second
-E -> I: -1 second
-E -> J: -1 second
-E -> K: -1 second
-E -> L: -1 second
-E -> M: -1 second
-E -> N: -1 second
-E -> O: -1 second
-F -> A: -1 second
-F -> B: -1 second
-F -> C: -1 second
-F -> D: -1 second
-F -> E: -1 second
-F -> G: -1 second
-F -> H: -1 second
-F -> I: -1 second
-F -> J: -1 second
-F -> K: -1 second
-F -> L: -1 second
-F -> M: -1 second
-F -> N: -1 second
-F -> O: -1 second
-G -> A: 165 seconds
-G -> B: 158 seconds
-G -> C: 121 seconds
-G -> D: 77 seconds
-G -> E: 146 seconds
-G -> F: 107 seconds
-G -> H: 140 seconds
-G -> I: 64 seconds
-G -> J: 132 seconds
-G -> K: 176 seconds
-G -> L: 113 seconds
-G -> M: 90 seconds
-G -> N: 39 seconds
-G -> O: -1 second
-H -> A: 411 seconds
-H -> B: 404 seconds
-H -> C: 96 seconds
-H -> D: 193 seconds
-H -> E: 121 seconds
-H -> F: 130 seconds
-H -> G: 246 seconds
-H -> I: 310 seconds
-H -> J: 248 seconds
-H -> K: 292 seconds
-H -> L: 347 seconds
-H -> M: 336 seconds
-H -> N: 273 seconds
-H -> O: -1 second
-I -> A: 101 seconds
-I -> B: 94 seconds
-I -> C: 65 seconds
-I -> D: 114 seconds
-I -> E: 90 seconds
-I -> F: 99 seconds
-I -> G: 167 seconds
-I -> H: 177 seconds
-I -> J: 83 seconds
-I -> K: 127 seconds
-I -> L: 182 seconds
-I -> M: 26 seconds
-I -> N: 108 seconds
-I -> O: -1 second
-J -> A: 249 seconds
-J -> B: 242 seconds
-J -> C: 107 seconds
-J -> D: 31 seconds
-J -> E: 119 seconds
-J -> F: 93 seconds
-J -> G: 84 seconds
-J -> H: 94 seconds
-J -> I: 148 seconds
-J -> K: 44 seconds
-J -> L: 99 seconds
-J -> M: 96 seconds
-J -> N: 25 seconds
-J -> O: -1 second
-K -> A: 304 seconds
-K -> B: 297 seconds
-K -> C: 96 seconds
-K -> D: 110 seconds
-K -> E: 75 seconds
-K -> F: 82 seconds
-K -> G: 139 seconds
-K -> H: 56 seconds
-K -> I: 203 seconds
-K -> J: 79 seconds
-K -> L: 88 seconds
-K -> M: 175 seconds
-K -> N: 14 seconds
-K -> O: -1 second
-L -> A: 216 seconds
-L -> B: 209 seconds
-L -> C: 8 seconds
-L -> D: 105 seconds
-L -> E: 33 seconds
-L -> F: 42 seconds
-L -> G: 51 seconds
-L -> H: 168 seconds
-L -> I: 115 seconds
-L -> J: 160 seconds
-L -> K: 204 seconds
-L -> M: 141 seconds
-L -> N: 90 seconds
-L -> O: -1 second
-M -> A: 354 seconds
-M -> B: 347 seconds
-M -> C: 39 seconds
-M -> D: 136 seconds
-M -> E: 64 seconds
-M -> F: 73 seconds
-M -> G: 189 seconds
-M -> H: 199 seconds
-M -> I: 253 seconds
-M -> J: 191 seconds
-M -> K: 235 seconds
-M -> L: 290 seconds
-M -> N: 216 seconds
-M -> O: -1 second
-N -> A: 290 seconds
-N -> B: 283 seconds
-N -> C: 82 seconds
-N -> D: 179 seconds
-N -> E: 107 seconds
-N -> F: 68 seconds
-N -> G: 125 seconds
-N -> H: 242 seconds
-N -> I: 189 seconds
-N -> J: 234 seconds
-N -> K: 278 seconds
-N -> L: 74 seconds
-N -> M: 215 seconds
-N -> O: -1 second
-O -> A: 346 seconds
-O -> B: 339 seconds
-O -> C: 31 seconds
-O -> D: 128 seconds
-O -> E: 56 seconds
-O -> F: 65 seconds
-O -> G: 181 seconds
-O -> H: 191 seconds
-O -> I: 245 seconds
-O -> J: 183 seconds
-O -> K: 227 seconds
-O -> L: 282 seconds
-O -> M: 271 seconds
-O -> N: 208 seconds
+Alipašino -> Baščaršija: -1 second
+Alipašino -> Ciglane: -1 second
+Alipašino -> Doglodi: -1 second
+Alipašino -> Energoinvest Stup: -1 second
+Alipašino -> Ferhadija: 98 seconds
+Alipašino -> Grdonj: -1 second
+Alipašino -> Hrid: -1 second
+Alipašino -> Ilidža: -1 second
+Alipašino -> Jarčedole: -1 second
+Alipašino -> Krivoglavci: -1 second
+Alipašino -> Lužani: -1 second
+Alipašino -> Marijin Dvor: -1 second
+Alipašino -> Novi Grad: -1 second
+Alipašino -> Otoka: -1 second
+Baščaršija -> Alipašino: 7 seconds
+Baščaršija -> Ciglane: -1 second
+Baščaršija -> Doglodi: -1 second
+Baščaršija -> Energoinvest Stup: -1 second
+Baščaršija -> Ferhadija: 105 seconds
+Baščaršija -> Grdonj: -1 second
+Baščaršija -> Hrid: -1 second
+Baščaršija -> Ilidža: -1 second
+Baščaršija -> Jarčedole: -1 second
+Baščaršija -> Krivoglavci: -1 second
+Baščaršija -> Lužani: -1 second
+Baščaršija -> Marijin Dvor: -1 second
+Baščaršija -> Novi Grad: -1 second
+Baščaršija -> Otoka: -1 second
+Ciglane -> Alipašino: 315 seconds
+Ciglane -> Baščaršija: 308 seconds
+Ciglane -> Doglodi: 97 seconds
+Ciglane -> Energoinvest Stup: 25 seconds
+Ciglane -> Ferhadija: 34 seconds
+Ciglane -> Grdonj: 150 seconds
+Ciglane -> Hrid: 160 seconds
+Ciglane -> Ilidža: 214 seconds
+Ciglane -> Jarčedole: 152 seconds
+Ciglane -> Krivoglavci: 196 seconds
+Ciglane -> Lužani: 251 seconds
+Ciglane -> Marijin Dvor: 240 seconds
+Ciglane -> Novi Grad: 177 seconds
+Ciglane -> Otoka: -1 second
+Doglodi -> Alipašino: 218 seconds
+Doglodi -> Baščaršija: 211 seconds
+Doglodi -> Ciglane: 159 seconds
+Doglodi -> Energoinvest Stup: 174 seconds
+Doglodi -> Ferhadija: 148 seconds
+Doglodi -> Grdonj: 53 seconds
+Doglodi -> Hrid: 63 seconds
+Doglodi -> Ilidža: 117 seconds
+Doglodi -> Jarčedole: 55 seconds
+Doglodi -> Krivoglavci: 99 seconds
+Doglodi -> Lužani: 154 seconds
+Doglodi -> Marijin Dvor: 143 seconds
+Doglodi -> Novi Grad: 80 seconds
+Doglodi -> Otoka: -1 second
+Energoinvest Stup -> Alipašino: -1 second
+Energoinvest Stup -> Baščaršija: -1 second
+Energoinvest Stup -> Ciglane: -1 second
+Energoinvest Stup -> Doglodi: -1 second
+Energoinvest Stup -> Ferhadija: -1 second
+Energoinvest Stup -> Grdonj: -1 second
+Energoinvest Stup -> Hrid: -1 second
+Energoinvest Stup -> Ilidža: -1 second
+Energoinvest Stup -> Jarčedole: -1 second
+Energoinvest Stup -> Krivoglavci: -1 second
+Energoinvest Stup -> Lužani: -1 second
+Energoinvest Stup -> Marijin Dvor: -1 second
+Energoinvest Stup -> Novi Grad: -1 second
+Energoinvest Stup -> Otoka: -1 second
+Ferhadija -> Alipašino: -1 second
+Ferhadija -> Baščaršija: -1 second
+Ferhadija -> Ciglane: -1 second
+Ferhadija -> Doglodi: -1 second
+Ferhadija -> Energoinvest Stup: -1 second
+Ferhadija -> Grdonj: -1 second
+Ferhadija -> Hrid: -1 second
+Ferhadija -> Ilidža: -1 second
+Ferhadija -> Jarčedole: -1 second
+Ferhadija -> Krivoglavci: -1 second
+Ferhadija -> Lužani: -1 second
+Ferhadija -> Marijin Dvor: -1 second
+Ferhadija -> Novi Grad: -1 second
+Ferhadija -> Otoka: -1 second
+Grdonj -> Alipašino: 165 seconds
+Grdonj -> Baščaršija: 158 seconds
+Grdonj -> Ciglane: 121 seconds
+Grdonj -> Doglodi: 77 seconds
+Grdonj -> Energoinvest Stup: 146 seconds
+Grdonj -> Ferhadija: 107 seconds
+Grdonj -> Hrid: 140 seconds
+Grdonj -> Ilidža: 64 seconds
+Grdonj -> Jarčedole: 132 seconds
+Grdonj -> Krivoglavci: 176 seconds
+Grdonj -> Lužani: 113 seconds
+Grdonj -> Marijin Dvor: 90 seconds
+Grdonj -> Novi Grad: 39 seconds
+Grdonj -> Otoka: -1 second
+Hrid -> Alipašino: 411 seconds
+Hrid -> Baščaršija: 404 seconds
+Hrid -> Ciglane: 96 seconds
+Hrid -> Doglodi: 193 seconds
+Hrid -> Energoinvest Stup: 121 seconds
+Hrid -> Ferhadija: 130 seconds
+Hrid -> Grdonj: 246 seconds
+Hrid -> Ilidža: 310 seconds
+Hrid -> Jarčedole: 248 seconds
+Hrid -> Krivoglavci: 292 seconds
+Hrid -> Lužani: 347 seconds
+Hrid -> Marijin Dvor: 336 seconds
+Hrid -> Novi Grad: 273 seconds
+Hrid -> Otoka: -1 second
+Ilidža -> Alipašino: 101 seconds
+Ilidža -> Baščaršija: 94 seconds
+Ilidža -> Ciglane: 65 seconds
+Ilidža -> Doglodi: 114 seconds
+Ilidža -> Energoinvest Stup: 90 seconds
+Ilidža -> Ferhadija: 99 seconds
+Ilidža -> Grdonj: 167 seconds
+Ilidža -> Hrid: 177 seconds
+Ilidža -> Jarčedole: 83 seconds
+Ilidža -> Krivoglavci: 127 seconds
+Ilidža -> Lužani: 182 seconds
+Ilidža -> Marijin Dvor: 26 seconds
+Ilidža -> Novi Grad: 108 seconds
+Ilidža -> Otoka: -1 second
+Jarčedole -> Alipašino: 249 seconds
+Jarčedole -> Baščaršija: 242 seconds
+Jarčedole -> Ciglane: 107 seconds
+Jarčedole -> Doglodi: 31 seconds
+Jarčedole -> Energoinvest Stup: 119 seconds
+Jarčedole -> Ferhadija: 93 seconds
+Jarčedole -> Grdonj: 84 seconds
+Jarčedole -> Hrid: 94 seconds
+Jarčedole -> Ilidža: 148 seconds
+Jarčedole -> Krivoglavci: 44 seconds
+Jarčedole -> Lužani: 99 seconds
+Jarčedole -> Marijin Dvor: 96 seconds
+Jarčedole -> Novi Grad: 25 seconds
+Jarčedole -> Otoka: -1 second
+Krivoglavci -> Alipašino: 304 seconds
+Krivoglavci -> Baščaršija: 297 seconds
+Krivoglavci -> Ciglane: 96 seconds
+Krivoglavci -> Doglodi: 110 seconds
+Krivoglavci -> Energoinvest Stup: 75 seconds
+Krivoglavci -> Ferhadija: 82 seconds
+Krivoglavci -> Grdonj: 139 seconds
+Krivoglavci -> Hrid: 56 seconds
+Krivoglavci -> Ilidža: 203 seconds
+Krivoglavci -> Jarčedole: 79 seconds
+Krivoglavci -> Lužani: 88 seconds
+Krivoglavci -> Marijin Dvor: 175 seconds
+Krivoglavci -> Novi Grad: 14 seconds
+Krivoglavci -> Otoka: -1 second
+Lužani -> Alipašino: 216 seconds
+Lužani -> Baščaršija: 209 seconds
+Lužani -> Ciglane: 8 seconds
+Lužani -> Doglodi: 105 seconds
+Lužani -> Energoinvest Stup: 33 seconds
+Lužani -> Ferhadija: 42 seconds
+Lužani -> Grdonj: 51 seconds
+Lužani -> Hrid: 168 seconds
+Lužani -> Ilidža: 115 seconds
+Lužani -> Jarčedole: 160 seconds
+Lužani -> Krivoglavci: 204 seconds
+Lužani -> Marijin Dvor: 141 seconds
+Lužani -> Novi Grad: 90 seconds
+Lužani -> Otoka: -1 second
+Marijin Dvor -> Alipašino: 354 seconds
+Marijin Dvor -> Baščaršija: 347 seconds
+Marijin Dvor -> Ciglane: 39 seconds
+Marijin Dvor -> Doglodi: 136 seconds
+Marijin Dvor -> Energoinvest Stup: 64 seconds
+Marijin Dvor -> Ferhadija: 73 seconds
+Marijin Dvor -> Grdonj: 189 seconds
+Marijin Dvor -> Hrid: 199 seconds
+Marijin Dvor -> Ilidža: 253 seconds
+Marijin Dvor -> Jarčedole: 191 seconds
+Marijin Dvor -> Krivoglavci: 235 seconds
+Marijin Dvor -> Lužani: 290 seconds
+Marijin Dvor -> Novi Grad: 216 seconds
+Marijin Dvor -> Otoka: -1 second
+Novi Grad -> Alipašino: 290 seconds
+Novi Grad -> Baščaršija: 283 seconds
+Novi Grad -> Ciglane: 82 seconds
+Novi Grad -> Doglodi: 179 seconds
+Novi Grad -> Energoinvest Stup: 107 seconds
+Novi Grad -> Ferhadija: 68 seconds
+Novi Grad -> Grdonj: 125 seconds
+Novi Grad -> Hrid: 242 seconds
+Novi Grad -> Ilidža: 189 seconds
+Novi Grad -> Jarčedole: 234 seconds
+Novi Grad -> Krivoglavci: 278 seconds
+Novi Grad -> Lužani: 74 seconds
+Novi Grad -> Marijin Dvor: 215 seconds
+Novi Grad -> Otoka: -1 second
+Otoka -> Alipašino: 346 seconds
+Otoka -> Baščaršija: 339 seconds
+Otoka -> Ciglane: 31 seconds
+Otoka -> Doglodi: 128 seconds
+Otoka -> Energoinvest Stup: 56 seconds
+Otoka -> Ferhadija: 65 seconds
+Otoka -> Grdonj: 181 seconds
+Otoka -> Hrid: 191 seconds
+Otoka -> Ilidža: 245 seconds
+Otoka -> Jarčedole: 183 seconds
+Otoka -> Krivoglavci: 227 seconds
+Otoka -> Lužani: 282 seconds
+Otoka -> Marijin Dvor: 271 seconds
+Otoka -> Novi Grad: 208 seconds

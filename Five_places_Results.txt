@@ -1,20 +1,20 @@
-A -> B: 80 seconds
-A -> C: 55 seconds
-A -> D: 63 seconds
-A -> E: 65 seconds
-B -> A: 83 seconds
-B -> C: 94 seconds
-B -> D: 133 seconds
-B -> E: 43 seconds
-C -> A: 81 seconds
-C -> B: 26 seconds
-C -> D: 52 seconds
-C -> E: 23 seconds
-D -> A: 56 seconds
-D -> B: 43 seconds
-D -> C: 35 seconds
-D -> E: 2 seconds
-E -> A: 96 seconds
-E -> B: 89 seconds
-E -> C: 63 seconds
-E -> D: 90 seconds
+Alipašino -> Baščaršija: 80 seconds
+Alipašino -> Ciglane: 55 seconds
+Alipašino -> Doglodi: 63 seconds
+Alipašino -> Energoinvest Stup: 65 seconds
+Baščaršija -> Alipašino: 83 seconds
+Baščaršija -> Ciglane: 94 seconds
+Baščaršija -> Doglodi: 133 seconds
+Baščaršija -> Energoinvest Stup: 43 seconds
+Ciglane -> Alipašino: 81 seconds
+Ciglane -> Baščaršija: 26 seconds
+Ciglane -> Doglodi: 52 seconds
+Ciglane -> Energoinvest Stup: 23 seconds
+Doglodi -> Alipašino: 56 seconds
+Doglodi -> Baščaršija: 43 seconds
+Doglodi -> Ciglane: 35 seconds
+Doglodi -> Energoinvest Stup: 2 seconds
+Energoinvest Stup -> Alipašino: 96 seconds
+Energoinvest Stup -> Baščaršija: 89 seconds
+Energoinvest Stup -> Ciglane: 63 seconds
+Energoinvest Stup -> Doglodi: 90 seconds

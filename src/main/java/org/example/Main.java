@@ -10,6 +10,24 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) throws IOException {
         ArrayList<Constraints> constraints = getConstraints();
+
+        File file = new File("src/main/java/org/example/places.txt");
+        Scanner s = new Scanner(file);
+        if (s.hasNextLine()) s.nextLine();
+
+        try{
+            while (s.hasNextLine()) {
+                String line = s.nextLine();
+                String[] linePart = line.split(",");
+                String shortcode = linePart[0].trim();
+                String name = linePart[1].trim();
+
+                Places.addPlace(shortcode, name);
+            }
+        } catch (Exception e) {
+            System.out.println(e.getMessage());
+        }
+
         try{
         Graph fivePlacesGraph;
         fivePlacesGraph = createGraph("src/main/java/org/example/five_places.txt", constraints);
@@ -34,24 +52,6 @@ public class Main {
         }catch (Exception e){
             System.out.println(e.getMessage());
         }
-
-        File file = new File("src/main/java/org/example/places.txt");
-        Scanner s = new Scanner(file);
-        if (s.hasNextLine()) s.nextLine();
-
-        try{
-            while (s.hasNextLine()) {
-                String line = s.nextLine();
-                String[] linePart = line.split(",");
-                String shortcode = linePart[0].trim();
-                String name = linePart[1].trim();
-
-                Places.addPlace(shortcode, name);
-            }
-        } catch (Exception e) {
-            System.out.println(e.getMessage());
-        }
-        
     }
 
     private static void output(Graph graph, String file) throws IOException {
