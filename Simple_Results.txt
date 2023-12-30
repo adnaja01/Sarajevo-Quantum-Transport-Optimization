@@ -1,0 +1,6 @@
+A -> B: 10 seconds
+A -> C: 30 seconds
+B -> A: 25 seconds
+B -> C: 20 seconds
+C -> A: 5 seconds
+C -> B: 15 seconds
